@@ -1,0 +1,21 @@
+# ninja log v5
+1	53	7010343461227310	curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	b19fee4d365312a6
+5801	5850	7010343519218939	curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	fc9e2b7f898d1b6b
+53	5691	7010343517609988	C:/Users/vimco/CLionProjects/task_30.4.3_args/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	a13d743bfbf024fd
+5691	5741	7010343518129570	curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	83095240eee97373
+1	53	7010343461227310	C:/Users/vimco/CLionProjects/task_30.4.3_args/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	b19fee4d365312a6
+5691	5741	7010343518129570	C:/Users/vimco/CLionProjects/task_30.4.3_args/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	83095240eee97373
+53	5691	7010343517609988	curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	a13d743bfbf024fd
+5742	5800	7010343518709235	curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	77c6dde4bfe7c69f
+5956	6006	7010343520758060	curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	e1e4df3690592c90
+5742	5800	7010343518709235	C:/Users/vimco/CLionProjects/task_30.4.3_args/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	77c6dde4bfe7c69f
+5801	5850	7010343519218939	C:/Users/vimco/CLionProjects/task_30.4.3_args/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	fc9e2b7f898d1b6b
+5850	5902	7010343519738644	curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	f3cfd05cfd1531e2
+5850	5902	7010343519738644	C:/Users/vimco/CLionProjects/task_30.4.3_args/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	f3cfd05cfd1531e2
+5903	5955	7010343520248352	curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	e69d7c2cbadb0568
+5903	5955	7010343520248352	C:/Users/vimco/CLionProjects/task_30.4.3_args/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	e69d7c2cbadb0568
+5956	6006	7010343520758060	C:/Users/vimco/CLionProjects/task_30.4.3_args/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	e1e4df3690592c90
+6006	6076	7010343521457662	CMakeFiles/curl-populate-complete	f795ce29b2d7d4f9
+6006	6076	7010343521457662	curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	f795ce29b2d7d4f9
+6006	6076	7010343521457662	C:/Users/vimco/CLionProjects/task_30.4.3_args/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate-complete	f795ce29b2d7d4f9
+6006	6076	7010343521457662	C:/Users/vimco/CLionProjects/task_30.4.3_args/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	f795ce29b2d7d4f9
